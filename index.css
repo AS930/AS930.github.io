@@ -1,6 +1,8 @@
 #S1{
     background-color: red;
-    background-color: white;
+    color: white;
+    height: 100px;
+    width: 100px;
 }
 #S2{
 
@@ -8,6 +10,18 @@
 #S3{
 
 }
+
 #S4{
 
+}
+
+#K1{
+    background-image:url("g.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 300px;
+    top: 100px;
+    height: 100px;
+    width: 200px;
 }
